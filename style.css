@@ -1,0 +1,32 @@
+body{
+  background-image: url(cse.jpg);
+}
+h2{
+  text-align: center;
+  color: red;
+  font-style: italic;
+  font-weight: : bold;
+  text-transform: uppercase;
+}
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 100px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44; }
+
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+}
